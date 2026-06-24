@@ -1,0 +1,6 @@
+{
+  "name": "TV Welcome Launcher",
+  "description": "An Android TV app that displays a customizable welcome URL with a configured room number, designed to launch automatically on TV boot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
